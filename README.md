@@ -1,12 +1,12 @@
 # SteamGames
 ## Video Game Peak Concurrent User Prediction
 
-# Overview
+## Overview
 
 This project is centered around the development of a machine learning pipeline aimed at predicting the Peak Concurrent User Count (Peak CCU) for video games. It encompasses a comprehensive approach, handling various aspects of machine learning including data acquisition, preprocessing, exploratory data analysis, and modeling. It focuses on the Steam gaming platform, a cornerstone in the digital gaming world operated by Valve Corporation. Since its inception in 2003, Steam has been a pivotal force in PC gaming, offering a rich and diverse library of games ranging from indie gems to blockbuster titles.
 This project showcases the power of machine learning in providing meaningful insights in the gaming industry, particularly in understanding and predicting user engagement metrics like Peak CCU.
 
-# Data
+## Data
 The dataset used for this project is a comprehensive collection of metadata for all games available on Steam. This includes crucial information like game titles, release dates, developers, publishers, user reviews, ratings, and system requirements, along with more nuanced data such as estimated owners, DLC count, and supported languages.
 
 - Link to the dataset: https://www.kaggle.com/datasets/mexwell/steamgames/data
