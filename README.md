@@ -11,7 +11,6 @@ The dataset used for this project is a comprehensive collection of metadata for 
 
 - Link to the dataset: https://www.kaggle.com/datasets/mexwell/steamgames/data
 
-# Video Game Peak Concurrent User Prediction
 
 ## Key Features
 
