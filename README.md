@@ -1,6 +1,8 @@
 # SteamGames
 ## Video Game Peak Concurrent User Prediction
 
+- Author : Sheida Majidi
+  
 ## Overview
 
 This project is centered around the development of a machine learning pipeline aimed at predicting the Peak Concurrent User Count (Peak CCU) for video games. It encompasses a comprehensive approach, handling various aspects of machine learning including data acquisition, preprocessing, exploratory data analysis, and modeling. It focuses on the Steam gaming platform, a cornerstone in the digital gaming world operated by Valve Corporation. Since its inception in 2003, Steam has been a pivotal force in PC gaming, offering a rich and diverse library of games ranging from indie gems to blockbuster titles.
